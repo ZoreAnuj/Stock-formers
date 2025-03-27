@@ -31,3 +31,4 @@ The dataset we have used is that of IBM stock price history. The dataset starts 
 ![final_model_metrics](https://github.com/ZoreAnuj/Stock-formers/assets/95142805/7313e3fa-1312-4f4d-a0f6-f5e80b675565)
 
 
+Triggering update for day: Thu Mar 27 00:45:40 UTC 2025
